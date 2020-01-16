@@ -1,0 +1,9 @@
+Novice Pyromancer
+Minion
+1
+0 1
+Acti
+Deal 1 damage to target minion
+1
+0
+0 -1 0 0 0 0 0 0 0 1 All 0 

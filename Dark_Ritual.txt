@@ -1,0 +1,8 @@
+Dark Ritual
+Ritual
+0
+At the start of your turn, gain 1 magic
+1
+5
+0 0 0 0 0 0 0 1 1 1 Allied 0
+1

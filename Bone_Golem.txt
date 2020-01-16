@@ -1,0 +1,10 @@
+Bone Golem
+Minion
+2
+1 3
+Trig
+Gain +1/+1 whenever a minion leaves play.
+3
+0
+1 1 0 0 0 0 0 0 0 All 0
+ 

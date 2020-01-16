@@ -1,0 +1,6 @@
+Raise Dead
+Spell
+1
+Resurrect the top minion in your graveyard and set its defence to 1.
+0 0 0 0 0 0 1 0 0 0 Allied 0
+0

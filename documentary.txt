@@ -1,0 +1,49 @@
+Board::
+void applyAll(const Card* const c):
+	Apply the card c to all the Player, Minions, Ritual on the board, following APNAP order
+	
+	Used functions:
+	Player::apply(Card* c);
+	Card::applied(Card* c); (All its subclasses)
+
+
+void notifyAll(Trigger t):
+	notify the Trigger to all the Observers on the board
+	
+	Used function:
+	Player::apply(Card* c);
+	Card::applied(Card* c); (All its subclasses)
+	Card::notify(Trigger t); (All its subclasses)
+
+
+void die(const Minion* const c):
+	check if minion c is dead, if dead, notifyAll(Trigger::MLeave)
+
+	Used function:
+	notifyAll(Trigger t);
+
+
+void startTurn():
+	notify Player, change its magic
+	notifyAll(Trigger::Start);
+
+	Used function:
+	notifyAll(Trigger t);
+
+void endTurn():
+	notifyAll(Trigger::End);
+	change active player
+
+void attack(int i, int j):
+	let two minions attack each other, change their def and check if it is die
+	
+	Used function:
+	die(const Minion* const c);
+	Minion::collision(Minion*);
+
+
+void attack(int i):
+	let active player's ith player attack non-active player, change its def and check if it is die
+	
+	Used function:
+	Player::collion

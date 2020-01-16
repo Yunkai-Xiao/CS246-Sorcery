@@ -1,0 +1,7 @@
+Silence
+Enchantment
+1
+Enchanted minion cannot use abilities
+0 0 0 0 0 0 0 0 0 1 All 0
+0
+1

@@ -1,0 +1,6 @@
+Banish
+Spell
+2
+Destroy target minion or ritual.
+0 0 0 0 1 0 0 0 0 1 All 0
+0

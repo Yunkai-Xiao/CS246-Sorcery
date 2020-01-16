@@ -1,0 +1,11 @@
+Apprentice Summoner
+Minion
+1
+1 1
+Acti
+Summon a 1/1 air elemental.
+1
+1
+0 0 0 0 0 0 0 0 0 0 Allied 0
+Air Elemental
+1 1 0 0 1

@@ -1,0 +1,8 @@
+Haste
+Enchantment
+1
+Enchanted minion gains +1 action each turn
+0
+0 0 0 0 0 0 0 0 0 1 All 0
+1
+0

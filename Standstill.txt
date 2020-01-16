@@ -1,0 +1,8 @@
+Standstill
+Ritual
+3
+Whenever a minion enters play, destroy it.
+2
+4
+0 0 0 0 1 0 0 0 0 1 All 0
+2

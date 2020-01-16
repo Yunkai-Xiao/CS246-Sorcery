@@ -1,0 +1,9 @@
+Magic Fatigue
+Enchantment
+0
+Enchanted minion's activated ability costs 2 more.
+0
+0 0 0 0 0 0 0 0 0 1 All 0
+0
+0
+0

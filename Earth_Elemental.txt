@@ -1,0 +1,5 @@
+Earth Elemental
+Minion
+3
+4 4
+Null

@@ -1,0 +1,9 @@
+Fire Elemental
+Minion
+2
+2 2
+Trig
+Whenever an opponent's minion enters play, deal 1 damage to it.
+2
+0
+0 -1 0 0 0 0 0 0 0 1 Opponent 0

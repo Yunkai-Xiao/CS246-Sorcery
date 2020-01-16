@@ -1,0 +1,8 @@
+Aura of Power
+Ritual
+1
+Whenever a minion enters play under your control, it gains +1/+1.
+1
+4
+1 1 0 0 0 0 0 0 0 1 Allied 0
+2

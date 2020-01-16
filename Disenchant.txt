@@ -1,0 +1,6 @@
+Disenchant
+Spell
+1
+Destroy the top enchantment on target minion
+0 0 0 0 0 0 0 0 0 1 All 0
+1

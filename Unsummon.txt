@@ -1,0 +1,6 @@
+Unsummon
+Spell
+1
+Return target minion to its owner's hand
+0 0 0 0 0 1 0 0 0 1 All 0
+0

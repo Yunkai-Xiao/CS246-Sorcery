@@ -1,0 +1,6 @@
+Blizzard
+Spell
+3
+Deal 2 damage to all minions.
+0 -2 0 0 0 0 0 0 0 0 All 0
+0

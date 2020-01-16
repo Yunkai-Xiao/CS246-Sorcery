@@ -1,0 +1,9 @@
+Potion Seller
+Minion
+2
+1 3
+Trig
+At the end of your turn, all your minions gain +0/+1.
+4
+0
+0 1 0 0 0 0 0 0 0 0 Allied 0

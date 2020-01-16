@@ -1,0 +1,6 @@
+Recharge
+Spell
+1
+Your ritual gains 3 charges.
+0 0 0 0 0 0 0 0 0 1 Allied 3
+0

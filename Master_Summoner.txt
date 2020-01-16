@@ -1,0 +1,11 @@
+Master Summoner
+Minion
+3
+2 3
+Acti
+Summon up to three 1/1 air elementals
+2
+1
+0 0 0 0 0 0 0 0 0 0 Allied 0
+Air Elementals
+1 1 0 0 3
